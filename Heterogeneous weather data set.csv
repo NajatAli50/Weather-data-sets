@@ -1,0 +1,38 @@
+Temperature,,Pressure,,,Humidity,,,Wind speed,,
+Numerical,Vague,Numerical,Categorical,Vague,Numerical,Categorical,Vague,Numerical,Categorical,Vague
+7,very cold,1023,Yes,High,56,No,Dry,35.8,Yes,Strong windy
+6,very cold,1022,Yes,High,56,No,Dry,35.5,Yes,Strong windy
+6,very cold,1022,Yes,High,56,No,Dry,35.5,Yes,Strong windy
+5,very cold,1022,Yes,High,44,No,Dry,27.4,Yes,Windy
+5,very cold,1018,Yes,High,44,No,Dry,18.5,Yes,Windy
+4,very cold,1018,Yes,High,43,No,Dry,19.4,Yes,Windy
+4,very cold,1017,No,Low,41,No,Dry,18.5,Yes,Windy
+3,very cold,1017,No,Low,39,No,Dry,16.7,Yes,Windy
+3,very cold,1016,No,Low,85,Yes,Humid,9.7,No,Breeze
+1,very cold,1016,No,Low,85,Yes,Humid,9.7,No,Breeze
+-2,Freezing,1016,No,Low,87,Yes,Humid,9.7,No,Breeze
+-3,Freezing,1016,No,Low,87,Yes,Humid,9.3,No,Breeze
+-3,Freezing,1016,No,Low,87,Yes,Humid,9.3,No,Breeze
+7,very cold,1016,No,Low,87,Yes,Humid,20.4,Yes,Windy
+8,very cold,1015,No,Low,87,Yes,Humid,24.8,Yes,Windy
+8,very cold,1015,No,Low,93,Yes,Humid,23,Yes,Windy
+8,very cold,1015,No,Low,94,Yes,Humid,11.1,No,Breeze
+8,very cold,1015,No,Low,94,Yes,Humid,11.1,No,Breeze
+10,cold,1014,No,Low,99,Yes,Humid,14.8,No,Breeze
+10,cold,1014,No,Low,98,Yes,Humid,13,No,Breeze
+10,cold,1014,No,Low,98,Yes,Humid,13,No,Breeze
+12,cold,1014,No,Low,98,Yes,Humid,9.3,No,Breeze
+12,cold,1014,No,Low,95,Yes,Humid,9.3,No,Breeze
+12,cold,1014,No,Low,95,Yes,Humid,7.1,No,Breeze
+11,cold,1014,No,Low,87,Yes,Humid,7.1,No,Breeze
+6,very cold,1015,No,Low,87,Yes,Humid,5.7,No,Calm
+6,very cold,1016,No,Low,87,Yes,Humid,3.5,No,Calm
+5,very cold,1016,No,Low,87,Yes,Humid,3.5,No,Calm
+5,very cold,1017,No,Low,87,Yes,Humid,4.5,No,Calm
+5,very cold,1017,No,Low,87,Yes,Humid,1.3,No,Calm
+5,very cold,1018,Yes,High,87,Yes,Humid,1.3,No,Calm
+4,very cold,1018,Yes,High,32,No,Dry,1.3,No,Calm
+5,very cold,1019,Yes,High,35,No,Dry,11.7,No,Breeze
+5,very cold,1019,Yes,High,42,No,Dry,14.8,No,Breeze
+4,very cold,1019,Yes,High,42,No,Dry,18.5,No,Breeze
+5,very cold,1020,Yes,High,40,No,Dry,16.7,No,Breeze
