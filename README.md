@@ -3,4 +3,4 @@ A real weather data collection contains hourly historical weather datasets of fo
 Saudi Arabia, London in United Kingdom, Trenton in
 United States and Sydney in Australia) are collected
 from (www.wunderground.com). 
-Sample of heterogeneous weather data set.
+Heterogeneous weather data set file contains sample of weather data presented by different formats.
