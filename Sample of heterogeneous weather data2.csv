@@ -1,0 +1,41 @@
+Temperature,Dew Point,Humidity ,pressure,wind speed ,Wind Direction,Visibility,Condition
+0.678/  Cool,2,0.923/ Humid,Low,0.443/Calm,250,Visibile,Cloudy
+0.678/  Cool,2,0.923/ Humid,Low,0.443/Calm,250,Visibile,Cloudy
+0.678/  Cool,2,0.923/ Humid,Low,0.443/Calm,250,Visibile,Cloudy
+0.002/  Warm,2,0.915/ Humid,Low,0.443/Calm,250,Visibile,Cloudy
+0.7066/ Cold,4,0.843/Humid,High,0.965/ Calm,250,Visibile,Cloudy
+0.7066/ Cold,4,0.843/Humid,High,0.965/ Calm,250,Visibile,Cloudy
+0.7066/ Cold,4,0.843/Humid,High,0.965/ Calm,250,Visibile,Cloudy
+0.7066/ Cold,4,0.131/Dry,High,0.965/ Calm,310,Visibile,Cloudy
+0.7066/ Cold,4,0.131/Dry,High,0.664/Calm,310,Visibile,Cloudy
+0.965/  Cold,5,0.893/ Humid,High,0.001/Breeze,310,Visibile,Cloudy
+0.965/  Cold,5,0.893/ Humid,High,0.001/Breeze,310,Visibile,Cloudy
+0.965/  Cold,5,0.893/ Humid,High,0.001/Breeze,280,Visibile,Cloudy
+0.671/    Very Cold,3,0.243Dry,High,0.732/ Calm,280,Visibile,Cloudy
+0.671/    Very Cold,3,0.243Dry,High,0.732/ Calm,280,Visibile,Cloudy
+0.671/    Very Cold,4,0.006/ Dry,High,0.013/Windy,280,Visibile,Cloudy
+0.671/    Very Cold,4,0.006/ Dry,High,0.013/Windy,280,Visibile,Clear
+0.228/  Very Cold,6,0.101/ Dry,Low,0.122/ Breeze,280,Visibile,Clear
+0.188/  Very Cold,6,0.188/ Humid,Low,0.852/Breeze,160,Visibile,Clear
+0.188/  Very Cold,6,0.188/ Humid,Low,0.852/Breeze,160,Visibile,Clear
+0.188/  Very Cold,6,0.188/ Humid,Low,0.852/Breeze,160,Visibile,Clear
+0.228/    Cold,3,0.002/Dry,Low,0.221/ Windy ,160,Visibile,Clear
+0.228/    Cold,3,0.002/Dry,Low,0.221/ Windy ,160,Visibile,Clear
+0.228/    Cold,3,0.002/Dry,Low,0.221/ Windy ,160,Visibile,Clear
+0.228/    Cold,3,0.002/Dry,Low,0.221/ Windy ,160,Visibile,Cloudy
+0.228/    Cold,3,0.843/Humid,Low,0.221/ Windy ,120,Visibile,Cloudy
+0.027/Freezing,1,0.074/Dry, High,0.288/ Windy ,120,Visibile,Cloudy
+0.027/Freezing,1,0.074/Dry, High,0.288/ Windy ,170,Visibile,Cloudy
+0.673/Cold,3,0.074/Dry, High,0.288/ Windy ,170,Visibile,Cloudy
+0.673/Cold,4,0.074/Dry, High,0.288/ Windy ,170,Visibile,Cloudy
+0.673/Cold,4,0.074/Dry, High,0.352/ Windy ,170,Visibile,Cloudy
+0.673/Cold,4,0.074/Dry, High,0.352/ Windy ,90,Visibile,Cloudy
+0.812/    Cold,4,0.891/ Dry, High,0.352/ Windy ,90,Visibile,Cloudy
+0.008/  Cool,2,0.811/ Humid,Low,0.821/ Breeze,90,Not-Visibile,Rain
+0.008/  Cool,2,0.811/ Humid,Low,0.821/ Breeze,90,Not-Visibile,Rain
+0.008/  Cool,2,0.811/ Humid,Low,0.821/ Breeze,90,Not-Visibile,Rain
+0.008/  Cool,2,0.811/ Humid,Low,0.821/ Breeze,110,Not-Visibile,Rain
+0.008/  Cool,2,0.811/ Humid,Low,0.821/ Breeze,110,Not-Visibile,Rain
+0.476/Cold,4,0.291/ Dry,Low,0.004/Calm,110,Not-Visibile,Rain
+0.476/Cold,4,0.291/ Dry,Low,0.004/Calm,110,Not-Visibile,Rain
+0.476/Cold,4,0.291/ Dry,Low,0.004/Calm,110,Not-Visibile,Rain
